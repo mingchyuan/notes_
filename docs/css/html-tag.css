@@ -1,0 +1,12 @@
+table {
+    display: table !important;
+    width: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 1.2em auto;
+}
