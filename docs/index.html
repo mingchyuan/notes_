@@ -58,6 +58,11 @@
                 },
             },
 
+            latex: {
+                // 避免 inline math 產生捲軸
+                overflowScroll: false,
+            },
+
             search: {
                 paths: 'auto',
                 depth: 3,
@@ -72,6 +77,10 @@
     </script>
     <!-- docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+    <!-- docsify-latex & MathJax -->
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
     <!-- docsify-fontawesome -->
     <script src="https://unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
