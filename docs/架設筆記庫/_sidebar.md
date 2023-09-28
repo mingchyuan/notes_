@@ -6,4 +6,4 @@
 - [開發 docsify Plugin](/架設筆記庫/開發docsify-plugin/README.md)
     - [Markdown Highlight Text](/架設筆記庫/開發docsify-plugin/markdown-highlight-text.md)
     - [Gitalk Settings](/架設筆記庫/開發docsify-plugin/gitalk-settings.md)
-    - [TOC Highlight](/架設筆記庫/開發docsify-plugin/toc-highlight.md)
+    - [TOC Highlight and Scrolling Sync](/架設筆記庫/開發docsify-plugin/toc-highlight-and-scrolling-sync.md)
