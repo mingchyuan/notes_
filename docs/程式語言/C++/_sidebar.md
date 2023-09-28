@@ -1,0 +1,5 @@
+- [首頁](/)
+- [C++ 學習資源](/程式語言/C++/README.md)
+- 【2】Variables and Basic Types
+    - [【2-1】Primitive Built-in Types](/程式語言/C++/【2-1】primitive-built-in-types.md)
+- 【3】Strings, Vectors, and Arrays
