@@ -10,3 +10,7 @@ img {
     max-width: 100%;
     margin: 1.2em auto;
 }
+
+mark {
+    background-color: #ffecb3;
+}
