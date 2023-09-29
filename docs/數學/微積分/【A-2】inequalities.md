@@ -188,6 +188,10 @@ $$
 
 <img src="./數學/微積分/img/A-2_6.png" style="max-width: 40%;">
 
-?> Sketch  $f(x) = x^3 + 3x^2 - 4x$ and the solution of $f(x) > 0$.
+?> Sketch $f(x) = x^3 + 3x^2 - 4x$ and the solution of $f(x) > 0$.
 
 <img src="./數學/微積分/img/A-2_7.png" style="max-width: 70%;">
+
+?> Sketch $g(x) = x^3 + 3x^2,\ h(x) = 4x$ and the solution of $x^3 + 3x^2 > 4x$.
+
+<img src="./數學/微積分/img/A-2_8.png">
