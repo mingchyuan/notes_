@@ -211,7 +211,7 @@ $$
 \end{gather}
 $$
 
-let $k = \; \mid a \mid \; + \; \mid b \mid$
+$\text{let } k = \; \mid a \mid \; + \; \mid b \mid$
 
 $$
 \begin{align}
