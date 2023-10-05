@@ -50,11 +50,11 @@ $\infty$ ("infinity") is not a number. The notation stands for the set of all nu
 
 > [!note|label:Rules for inequalities]
 >
-> 1. If $a < b$, then $a + c < b + c$.
-> 2. If $a < b$ and $c < d$, then $a + c < b + d$.
-> 3. If $a < b$ and $c > 0$, then $ac < bc$.
-> 4. ==If $a < b$ and $c < 0$, then $ac > bc$.==
-> 5. If $0 < a < b$, then $\frac{1}{a} > \frac{1}{b}$.
+> 1. $\texttt{If } a < b \texttt{ , then } a + c < b + c$
+> 2. $\texttt{If } a < b \texttt{ and } c < d \texttt{ , then } a + c < b + d$
+> 3. $\texttt{If } a < b \texttt{ and } c > 0 \texttt{ , then } ac < bc$
+> 4. <mark>$\texttt{If } a < b \texttt{ and } c < 0 \texttt{ , then } ac > bc$</mark>
+> 5. $\texttt{If } 0 < a < b \texttt{ , then } \frac{1}{a} > \frac{1}{b}$
 
 ### Example
 
@@ -67,13 +67,13 @@ $$
     &&
     \\\\
     & x < 7x + 4
-    && \text{( Rule 1 with } C = -1 \text{ )}
+    && \texttt{( Rule 1 with } C = -1 \texttt{ )}
     \\\\
     & -6x < 4
-    && \text{( Rule 1 with } C = -7x \text{ )}
+    && \texttt{( Rule 1 with } C = -7x \texttt{ )}
     \\\\
     & x > -\frac{4}{6} = -\frac{2}{3}
-    && \text{( Rule 4 with } C = -\frac{1}{6} \text{ )}
+    && \texttt{( Rule 4 with } C = -\frac{1}{6} \texttt{ )}
 \end{align}
 $$
 
@@ -183,7 +183,7 @@ On each interval the product keeps a constant sign as shown in the following cha
 Then we read from the chart that the solution set is
 
 $$
-\{ x \mid -4 < x < 0 \text{ or } x > 1 \} = (-4,\ 0) \cup (1,\ \infty)
+\{ x \mid -4 < x < 0 \texttt{ or } x > 1 \} = (-4,\ 0) \cup (1,\ \infty)
 $$
 
 <img src="./數學/微積分/img/A-2_6.png" style="max-width: 40%;">
