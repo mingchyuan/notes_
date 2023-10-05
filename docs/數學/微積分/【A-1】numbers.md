@@ -3,32 +3,32 @@
 ## Numbers
 
 $$
-\text{Complex} : \mathbb{C} =
+\texttt{Complex: } \mathbb{C} =
 \begin{cases}
-    & \text{Real} : \mathbb{R} =
+    & \texttt{Real: } \mathbb{R} =
     & \begin{cases}
-        & \text{Rational} : \mathbb{Q}
+        & \texttt{Rational: } \mathbb{Q}
         & \begin{cases}
-            & \text{Integers} : \mathbb{Z}
+            & \texttt{Integers: } \mathbb{Z}
             & \begin{cases}
-                & \text{Natural} : \mathbb{N}
+                & \texttt{Natural: } \mathbb{N}
                 \\\\
-                & \text{Negative integers}
+                & \texttt{Negative integers}
             \end{cases}
-            \\\\
-            & \text{Nonintegers}
+            \\\\\\
+            & \texttt{Nonintegers}
             & \begin{cases}
-                & \text{Finite decimal}
+                & \texttt{Finite decimal}
                 \\\\
-                & \text{Repeating decimal}
+                & \texttt{Repeating decimal}
             \end{cases}
         \end{cases}
         \\\\
-        & \text{Irrational} : \mathbb{Q}^C
-        & \text{Nonrepeating decimal}
+        & \texttt{Irrational: } \mathbb{Q}^C
+        & \texttt{Nonrepeating decimal}
     \end{cases}
     \\\\
-    & \text{Imaginary}
+    & \texttt{Imaginary}
 \end{cases}
 $$
 
@@ -55,9 +55,9 @@ We construct the rational numbers, which are ==ratios of integers==. Thus any ra
 
 > [!note|label:Rational numbers]
 $$
-r = \frac{m}{n} \quad \text{where }
-m \text{ and }
-n \text{ are integers and }
+r = \frac{m}{n} \quad \texttt{where }
+m \texttt{ and }
+n \texttt{ are integers and }
 n \neq 0
 $$
 
@@ -144,10 +144,10 @@ If $S$ is a set.
 $$
 \begin{align}
     a \in S \quad
-    & \text{means that } a \text{ is an element of } S
+    & \texttt{means that } a \texttt{ is an element of } S
     \\\\
     a \notin S \quad
-    & \text{means that } a \text{ is not an element of } S
+    & \texttt{means that } a \texttt{ is not an element of } S
 \end{align}
 $$
 
@@ -169,14 +169,14 @@ Some sets can be described by listing their elements between braces.
 
 > [!example]
 $$
-A = \{ 1, 2, 3, 4, 5, 6 \}
+A = \{ 1,\ 2,\ 3,\ 4,\ 5,\ 6 \}
 $$
 
 We could also write $A$ in set-builder notation as
 
 > [!example]
 $$
-A = \{ x \mid  x \in \mathbb{Z} \text{ and } 0 < x < 7 \}
+A = \{ x \mid  x \in \mathbb{Z} \texttt{ and } 0 < x < 7 \}
 $$
 
 which is read "$A$ is the set of $x$ such that $x$ is an integer and $0 < x < 7$."

@@ -9,7 +9,7 @@ The absolute value of a number $a$, denoted by $\mid a \mid$, is ==the distance 
 Distances are always positive or $0$, so we have
 
 $$
-\mid a \mid \; \geq 0 \quad \text{for every number } a
+\mid a \mid \; \geq 0 \quad \texttt{for every number } a
 $$
 
 > [!example]
@@ -30,10 +30,10 @@ $$
 $$
 \begin{align}
     & \mid a \mid \; = a
-    & \text{if } a \geq 0
+    & \texttt{if } a \geq 0
     \\\\
     & \mid a \mid \; = -a
-    & \text{if } a < 0
+    & \texttt{if } a < 0
 \end{align}
 $$
 
@@ -46,19 +46,19 @@ $$
     & =
     \begin{cases}
         3x - 2
-        & \text{if } 3x - 2 \geq 0
+        & \texttt{if } 3x - 2 \geq 0
         \\\\
         -(3x - 2)
-        & \text{if } 3x - 2 < 0
+        & \texttt{if } 3x - 2 < 0
     \end{cases}
     \\\\
     & =
     \begin{cases}
         3x - 2
-        & \text{if } x \geq \dfrac{2}{3}
+        & \texttt{if } x \geq \dfrac{2}{3}
         \\\\
         2 - 3x
-        & \text{if } x < \dfrac{2}{3}
+        & \texttt{if } x < \dfrac{2}{3}
     \end{cases}
 \end{align}
 $$
@@ -94,9 +94,9 @@ For solving equations or inequalities involving absolute values, it’s often ve
 > [!note|label:Properties of absolute values]
 > Suppose $a > 0$. Then
 >
-> 1. $\mid x \mid \; = a \quad \text{if and only if} \quad x = \pm a$
-> 2. $\mid x \mid \; < a \quad \text{if and only if} \quad -a < x < a$ <img src="./數學/微積分/img/A-3_1.png" style="max-width: 50%;">
-> 3. $\mid x \mid \; > a \quad \text{if and only if} \quad x > a \enspace \text{or} \enspace x < -a$
+> 1. $\mid x \mid \; = a \texttt{ if and only if } x = \pm a$
+> 2. $\mid x \mid \; < a \texttt{ if and only if } -a < x < a$ <img src="./數學/微積分/img/A-3_1.png" style="max-width: 50%;">
+> 3. $\mid x \mid \; > a \texttt{ if and only if } x > a \texttt{ or } x < -a$
 
 > [!example]
 $\mid a - b \mid \; = \; \mid b - a \mid$
@@ -117,7 +117,7 @@ $$
         2x - 5 = -3
     \end{cases}
     \\\\
-    & x = 4 \text{ or } x = 1
+    & x = 4 \texttt{ or } x = 1
 \end{align}
 $$
 
@@ -148,10 +148,10 @@ $$
     f(x) =
     \begin{cases}
         x - 5
-        & \text{if } x \geq 5
+        & \texttt{if } x \geq 5
         \\\\
         -x + 5
-        & \text{if } x < 5
+        & \texttt{if } x < 5
     \end{cases}
 \end{gather}
 $$
@@ -184,7 +184,7 @@ $$
 So the solution set is
 
 $$
-\{ x \mid x \leq -2 \text{ or } x \geq \frac{2}{3} \}
+\{ x \mid x \leq -2 \texttt{ or } x \geq \frac{2}{3} \}
 = (-\infty,\ -2] \; \cup \; [\frac{2}{3},\ \infty)
 $$
 
