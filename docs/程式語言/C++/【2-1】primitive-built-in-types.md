@@ -206,29 +206,3 @@ If you need a tiny integer, explicitly specify either `signed char` or `unsigned
 See Chapter【4-11】.
 
 ## Literals
-
-A value, such as 42, is known as a literal because its value self-evident.<br />
-Every literal has a type. The form and value of a literal determine its type.
-
-### Integer Literals
-
-See also [Integer literal](https://en.cppreference.com/w/cpp/language/integer_literal)
-
-We can write an integer literal using the following notation:
-
-| Notation    | Begin With   |
-| ----------- | ------------ |
-| decimal     |              |
-| octal       | `0` (zero)   |
-| hexadecimal | `0x` or `0X` |
-
-The following variables are initialized to the same value:
-
-```cpp
-int d = 42;   // 42 (decimal, base 10)
-int o = 052;  // 52 (octal, base 8)
-int x = 0x2a; // 2a (hexadecimal, base 16)
-int X = 0X2A; // 2A (hexadecimal, base 16)
-```
-
-### Floating-Point Literals
