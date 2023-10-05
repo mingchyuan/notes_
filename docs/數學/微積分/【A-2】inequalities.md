@@ -183,7 +183,7 @@ On each interval the product keeps a constant sign as shown in the following cha
 Then we read from the chart that the solution set is
 
 $$
-\{ x \mid -4 < x < 0 \text{ or } x > 1 \} = (-4,\ 0) \cup (1,\ \infty)
+\{ x \mid -4 < x < 0 \texttt{ or } x > 1 \} = (-4,\ 0) \cup (1,\ \infty)
 $$
 
 <img src="./數學/微積分/img/A-2_6.png" style="max-width: 40%;">
